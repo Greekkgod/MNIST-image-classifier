@@ -1,6 +1,4 @@
-Here is a sharp, modern README for your MNIST Image Classifier repo:
 
-***
 
 # MNIST Image Classifier
 
@@ -33,4 +31,4 @@ A Jupyter Notebook project that builds a machine learning model to classify hand
 - Great for ML beginners—easy to modify and extend
 - Well-documented notebook for step-by-step learning
 
-***
+
