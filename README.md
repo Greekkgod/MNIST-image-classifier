@@ -23,7 +23,7 @@ A Jupyter Notebook project that builds a machine learning model to classify hand
    ```
 2. Open `MNIST.ipynb` in Jupyter Notebook.
 3. Run all cells!
-
+![MNIST Results](MINST.png) 
 
 ## 💡 Highlights
 
